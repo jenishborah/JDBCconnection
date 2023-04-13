@@ -1,2 +1,3 @@
 # JDBCconnection
-How to set connection with java and MySql using JDBC deiver 
+How to set connection with java d MySql using JDBC deiver 
+Xxxxx
