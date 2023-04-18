@@ -11,7 +11,7 @@ public class Demodbconnection {
         {
         Class.forName("com.mysql.jdbc.Driver");
         Connection con=DriverManager.getConnection(  
-        "jdbc:mysql://localhost:3306/dept","Jenish","Jenish@3116");  
+        "jdbc:mysql://localhost:3306/dept","username","password");  
  
         Statement stmt=con.createStatement();  
         ResultSet rs=stmt.executeQuery("select * from student");  
